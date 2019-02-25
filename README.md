@@ -10,13 +10,13 @@ Version 1.3.9
 
 This tool can be installed with:
 
-    pip install b2-sdk
+    pip install b2sdk
 
 If you see a message saying that the `six` library cannot be installed, which
 happens if you're installing with the system python on OS X El Capitan, try
 this:
 
-    pip install --ignore-installed b2-sdk
+    pip install --ignore-installed b2sdk
 
 # Release History
 
